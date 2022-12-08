@@ -1,0 +1,15 @@
+{
+    "name": "virgi/vix-investree-fullstack-developer",
+    "autoload": {
+        "psr-4": {
+            "Virgi\\VixInvestreeFullstackDeveloper\\": "App/"
+        }
+    },
+    "authors": [
+        {
+            "name": "virgiawankusuma",
+            "email": "virgiawan150@gmail.com"
+        }
+    ],
+    "require": {}
+}
