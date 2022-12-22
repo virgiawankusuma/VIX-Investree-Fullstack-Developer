@@ -1,3 +1,3 @@
 # VIX-Investree-Fullstack-Developer 
-## Week 3 (19-24 Desember 2022)
-In the third week, I learned about API (Aplication Programing Interface), MySQL Fundamental, Table Relation & Join, Automation, Profiling and Query Optimization.
+## Week 4 (26-30 Desember 2022)
+In the third week, I learned about blablabla..
